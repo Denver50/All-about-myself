@@ -1,0 +1,47 @@
+h1{
+    background-color: whitesmoke;
+    color: yellowgreen;
+}
+
+body{
+    background-color: gray;
+}
+header{
+    background-color: whitesmoke;
+    color: black;
+}
+h1{
+    color: gray;
+    background-color: whitesmoke;
+}
+
+a:hover{
+    background-color: gray;
+    color: red;
+}
+
+nav{
+    background-color: gray;
+    color: black;
+}
+
+main{
+    background-color: gray;
+}
+
+footer p{
+    background-color: gray;
+    color: white;
+}
+
+h2{
+    color : navy;
+}
+
+p{
+    color: black;
+}
+
+figcaption{
+    color: black;
+}
